@@ -1,7 +1,7 @@
 # Pacman
 Pacman game implemented in C++ to console.
 
-This is project at OOP(Object oriented programming).
+This is project at OOP.
 
 # Instructions
 #### buttons
